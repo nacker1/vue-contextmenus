@@ -1,0 +1,6 @@
+node_modules/
+script/
+public/
+src/
+dist/
+*.map
