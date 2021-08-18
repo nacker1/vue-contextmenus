@@ -1,7 +1,7 @@
 # vue-contentmenus
 
 #效果图
-![Image text](https://github.com/nacker1/vue-contextmenus/blob/master/vue-contextmeuns.gif)
+![image](https://github.com/nacker1/vue-contextmenus/blob/master/vue-contextmeuns.gif)
 
 ## 安装组件
 ```
