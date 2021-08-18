@@ -1,6 +1,6 @@
 {
   "name": "vue-contextmenus",
-  "version": "0.1.12",
+  "version": "0.1.16",
   "author": "nacker <nacker1@qq.com>",
   "description": "vue版本通用右健菜单组件，用过的都说好，没用的都在找。",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "private": false,
-  "main": "lib/vue-contextmenus.umd.min.js",
+  "main": "lib/vue-contextmenus.common.js",
   "types": "types/index.d.ts",
   "scripts": {
     "serve": "vue-cli-service serve",

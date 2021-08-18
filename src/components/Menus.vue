@@ -2,7 +2,7 @@
   <ul class="init">
     <li
       v-for="(item, index) in options"
-      :key="index"
+      :key="`${propLevel}_${index}`"
       class="nopadding box box-lr box-align-center box-pack-between"
       style=""
     >
