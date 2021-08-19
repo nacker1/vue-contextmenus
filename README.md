@@ -1,7 +1,19 @@
 # vue-contentmenus
 
-#效果图
+##效果图
+```
 [![fHu2qI.gif](https://z3.ax1x.com/2021/08/19/fHu2qI.gif)](https://imgtu.com/i/fHu2qI)
+```
+
+##实现功能
+```
+1、右健菜单
+2、多级菜单
+3、可放置到任意元素之上
+4、支持弹出层消失方式 mouseleave | click
+5、弹出层按窗口大小自动适应位置
+6、动态设置show内容来控制菜单内容的显示与隐藏
+```
 
 ## 安装组件
 ```
