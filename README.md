@@ -58,16 +58,16 @@ example.vue
 options = [
     {'type':'title', 'title':'基本操作'},
     {'type':"line"},
-    {'title':'复制',show:true,callback:()=>{
+    {'title':'复制','icon':'el-icon-copy-document',show:true,callback:()=>{
       console.log( 'res' )
     }}
 ]
 
-
+icon: 图标，该属性为图标class，如：elementUI的删除 -> el-icon-delete
 type: 类型， title=>标题类型 ｜ line => 横线
 title: 标题名称
 show: 是否显示，可动态设置
-callback: 菜单点击事件
+callback: 菜单点击点的回调事件
 
 
 Prop：

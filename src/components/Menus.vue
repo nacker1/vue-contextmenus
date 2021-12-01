@@ -18,7 +18,7 @@
           class="box box-lr box-align-center box-pack-start contextMenuContent"
         >
           <div class="box box-lr box-align-start ">
-            <i :class="item.icon" class="iconfont"></i>
+            <div><i :class="item.icon"></i></div>
             <span>{{ item.title }}</span>
           </div>
         </div>
